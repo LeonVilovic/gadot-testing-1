@@ -41,7 +41,8 @@ animations = [{
 [sub_resource type="CircleShape2D" id="CircleShape2D_m03wo"]
 radius = 5.0
 
-[node name="CharacterBody2D" type="CharacterBody2D" unique_id=856511460]
+[node name="player" type="CharacterBody2D" unique_id=856511460]
+z_index = 5
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1308806796]
 position = Vector2(0, -12)
