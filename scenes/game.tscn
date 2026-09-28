@@ -263,11 +263,11 @@ unique_name_in_owner = true
 script = ExtResource("1_gee14")
 
 [node name="LabelScore" type="Label" parent="GameManager" unique_id=1160932728]
-offset_left = 1.0
-offset_top = 7.0
-offset_right = 143.0
-offset_bottom = 42.0
-theme_override_colors/font_color = Color(0.4972276, 0.29206586, 0.25260538, 1)
+offset_left = 561.0
+offset_top = -193.0
+offset_right = 703.0
+offset_bottom = -158.0
+theme_override_colors/font_color = Color(0.09803922, 0.3137255, 0.7529412, 1)
 theme_override_fonts/font = ExtResource("7_gee14")
 theme_override_font_sizes/font_size = 8
 text = "Great job!
